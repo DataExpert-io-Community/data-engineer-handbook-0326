@@ -1,14 +1,21 @@
 # The Data Engineering Handbook
+<a href="https://trendshift.io/repositories/8755" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8755" alt="DataExpert-io%2Fdata-engineer-handbook | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 This repo has all the resources you need to become an amazing data engineer!
+
+### Join the free Databricks AI boot camp on August 3rd [here](https://learn.dataexpert.io/program/the-one-week-beginners-databricks-boot-camp-7129) and signup for Databricks Free Edition [here](https://signup.databricks.com/?provider=DB_FREE_TIERutm_source=github&utm_medium=video&utm_campaign=DataExpert)
 
 ## Getting started
 
 If you are new to data engineering, start by following this [2024 breaking into data engineering roadmap](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering)
 
-If you are here for the [6-week free YouTube boot camp](https://youtu.be/myhe0LXpCeo) you can check out
-- [introduction](bootcamp/introduction.md)
-- [software needed](bootcamp/software.md)
+If you are here for the [4-week free beginner boot camp](https://learn.dataexpert.io/program/the-absolute-beginner-data-engineering-boot-camp-starting-august-7th-6453/details) you can check out:
+- [introduction](beginner-bootcamp/introduction.md)
+- [software needed](beginner-bootcamp/software.md)
+
+If you are here for the [6-week free intermediate boot camp](https://learn.dataexpert.io/program/free-community-boot-camp/details) you can check out
+- [introduction](intermediate-bootcamp/introduction.md)
+- [software needed](intermediate-bootcamp/software.md)
 
 
 For more applied learning:
@@ -33,7 +40,7 @@ Top 3 must read books are:
 Top must-join communities for DE:
 - [DataExpert.io Community Discord](https://discord.gg/JGumAXncAK)
 - [Data Talks Club Slack](https://datatalks.club/slack)
-- [Data Engineer Things Community](https://www.dataengineerthings.org/aboutus/)
+- [Data Engineer Things Community](https://www.dataengineerthings.org/)
 
 Top must-join communities for ML:
 - [AdalFlow Discord](https://discord.com/invite/ezzszrRZvT)
@@ -56,11 +63,18 @@ Top must-join communities for ML:
   - [Databricks](https://www.databricks.com/company/about-us)
   - [Onehouse](https://www.onehouse.ai)
   - [Delta Lake](https://delta.io/)
+  - [Ilum](https://ilum.cloud/)
+  - [DuckLake](https://ducklake.select/)
+  - [Apache Iceberg](https://iceberg.apache.org/)
+  - [Apache Polaris](https://polaris.apache.org/)
+  - [Lakekeeper](https://lakekeeper.io/)
 - Data Warehouse
   - [Snowflake](https://www.snowflake.com/en/)
   - [Firebolt](https://www.firebolt.io/)
+  - [Databend](https://www.databend.com/)
 - Data Quality
   - [dbt](https://www.getdbt.com/)
+  - [Metaplane](https://www.metaplane.dev/)
   - [Gable](https://www.gable.ai)
   - [Great Expectations](https://www.greatexpectations.io)
   - [Streamdal](https://streamdal.com)
@@ -68,6 +82,7 @@ Top must-join communities for ML:
   - [Soda](https://www.soda.io/)
   - [DQOps](https://dqops.com/)
   - [HEDDA.IO](https://hedda.io)
+  - [Dingo](https://github.com/MigoXLab/dingo)
 - Education Companies
   - [DataExpert.io](https://www.dataexpert.io)
   - [LearnDataEngineering.com](https://www.learndataengineering.com)
@@ -92,7 +107,9 @@ Top must-join communities for ML:
   - [dlt](https://dlthub.com/)
   - [Sling](https://slingdata.io/)
   - [Meltano](https://meltano.com/)
- - Semantic Layers
+  - [Estuary](https://estuary.dev/)
+  - [Arpe.io](https://arpe.io/)
+- Semantic Layers
   - [Cube](https://cube.dev)
   - [dbt Semantic Layer](https://www.getdbt.com/product/semantic-layer) 
 - Modern OLAP
@@ -112,6 +129,8 @@ Top must-join communities for ML:
   - [Responsive](https://www.responsive.dev/)
   - [RisingWave](https://risingwave.com/)
   - [Striim](https://www.striim.com/)
+- Data Lineage
+  - [OpenLineage](https://openlineage.io/)
 
 
 ### Data Engineering blogs of companies:
@@ -126,6 +145,7 @@ Top must-join communities for ML:
 - [Oracle](https://blogs.oracle.com/datawarehousing/)
 - [Meta](https://engineering.fb.com/category/data-infrastructure/)
 - [Onehouse](https://www.onehouse.ai/blog)
+- [Estuary Blog](https://estuary.dev/blog/)
 
 ### Data Engineering Whitepapers:
 
@@ -139,65 +159,134 @@ Top must-join communities for ML:
 - [XTable in Action: Seamless Interoperability in Data Lakes](https://arxiv.org/abs/2401.09621)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/)
 - [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
+- [Data Engineering Whitepapers](https://www.ssp.sh/brain/data-engineering-whitepapers/)
 
-## Social Media Accounts
+### Social Media Accounts
 
 Here's the mostly comprehensive list of data engineering creators: 
 **(You have to have at least 5k followers somewhere to be added!)**
 
-| Name                 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50"/><br/> YouTube | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> <br/> LinkedIn | <img src="https://icon2.cleanpng.com/20240402/kzp/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" width="50"><br/> X/Twitter | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> <br/> Instagram | <img src="https://icon2.cleanpng.com/20240214/kxl/transparent-tiktok-logo-tiktok-logo-blue-and-pink-lettering-re-retro-style-tiktok-logo-evoking-1950s-1710878265139.webp" width="50"> <br/> TikTok |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zach Wilson          | [Data with Zach](https://www.youtube.com/@eczachly_) (70k+)                                                               | [Zach Wilson](https://www.linkedin.com/in/eczachly) (400k+)                                                                       | [EcZachly](https://www.twitter.com/EcZachly) (30k+)                                                                                                                             | [eczachly](https://www.instagram.com/eczachly) (150k+)                                                        | [@eczachly](https://www.tiktok.com/@eczachly) (70k+)                                                                                                                                                |
-| Shashank Mishra      | [E-learning Bridge](https://www.youtube.com/@shashank_mishra) (100k+)                                                     | [Shashank Mishra](https://www.linkedin.com/in/shashank219/) (100k+)                                                               |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Seattle Data Guy     | [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy) (100k+)                                                      | [Ben Rogojan](https://www.linkedin.com/in/benjaminrogojan) (100k+)                                                                | [SeattleDataGuy](https://www.twitter.com/SeattleDataGuy) (10k+)                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| TrendyTech           | [TrendyTech](https://www.youtube.com/c/TrendytechInsights) (100k+)                                                        | [Sumit Mittal](https://www.linkedin.com/in/bigdatabysumit/) (100k+)                                                               |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Darshil Parmar       | [Darshil Parmar](https://www.youtube.com/@DarshilParmar) (100k+)                                                          | [Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/) (100k+)                                                             |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Andreas Kretz        | [Andreas Kretz](https://www.youtube.com/c/andreaskayy) (100k+)                                                            | [Andreas Kretz](https://www.linkedin.com/in/andreas-kretz) (100k+)                                                                |                                                                                                                                                                                 | [learndataengineering](https://www.instagram.com/learndataengineering) (5k+)                                  |                                                                                                                                                                                                     |
-| ByteByteGo           | [ByteByteGo](https://www.youtube.com/c/ByteByteGo) (1m+)                                                                  | [Alex Xu](https://www.linkedin.com/in/alexxubyte) (100k+)                                                                         | [alexxubyte](https://twitter.com/alexxubyte/) (100k+)                                                                                                                           |                                                                                                               |                                                                                                                                                                                                     |
-| The Ravit Show       | [The Ravit Show](https://youtube.com/@theravitshow) (100k+)                                                               |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Guy in a Cube        | [Guy in a Cube](https://www.youtube.com/@GuyInACube) (100k+)                                                              |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Adam Marczak         | [Adam Marczak](https://www.youtube.com/@AdamMarczakYT) (100k+)                                                            |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| nullQueries          | [nullQueries](https://www.youtube.com/@nullQueries) (100k+)                                                               |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| TECHTFQ by Thoufiq   | [TECHTFQ by Thoufiq](https://www.youtube.com/@techTFQ) (100k+)                                                            |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| SQLBI                | [SQLBI](https://www.youtube.com/@SQLBI) (100k+)                                                                           | [Marco Russo](https://www.linkedin.com/in/sqlbi) (50k+)                                                                           | [marcorus](https://x.com/marcorus) (10k+)                                                                                                                                       |                                                                                                               |                                                                                                                                                                                                     |
-| Azure Lib            | [Azure Lib](https://www.youtube.com/@azurelib-academy) (10k+)                                                             | [Deepak Goyal](https://www.linkedin.com/in/deepak-goyal-93805a17/) (100k+)                                                        |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Prashanth Kumar Pandey            | [ScholarNest](https://www.youtube.com/@ScholarNest) (77k+)                                                             | [Prashanth Kumar Pandey](https://www.linkedin.com/in/prashant-kumar-pandey/) (37K+)                                                        |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Advancing Analytics  | [Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics) (10k+)                                                 | [Simon Whiteley](https://www.linkedin.com/in/simon-whiteley-uk/) (10k+)                                                           |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Kahan Data Solutions | [Kahan Data Solutions](https://www.youtube.com/@KahanDataSolutions) (10k+)                                                |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Ankit Bansal         | [Ankit Bansal](https://youtube.com/@ankitbansal6) (10k+)                                                                  | [Ankit Bansal](https://www.linkedin.com/in/ankitbansal6/) (50k+)                                                                  |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Mr. K Talks Tech     | [Mr. K Talks Tech](https://www.youtube.com/channel/UCzdOan4AmF65PmLLks8Lmww) (10k+)                                       |                                                                                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Li Yin               |                                                                                                                           | [Li Yin](https://www.linkedin.com/in/li-yin-ai/) (10k+)                                                                           |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Jaco van Gelder      |                                                                                                                           | [Jaco van Gelder](https://www.linkedin.com/in/jwvangelder/) (10k+)                                                                |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Joseph Machado       |                                                                                                                           | [Joseph Machado](https://www.linkedin.com/in/josephmachado1991/) (10k+)                                                           | [startdataeng](https://twitter.com/startdataeng) (5k+)                                                                                                                          |                                                                                                               |                                                                                                                                                                                                     |
-| Eric Roby            |                                                                                                                           | [Eric Roby](https://www.linkedin.com/in/codingwithroby/) (10k+)                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Simon Späti          |                                                                                                                           | [Simon Späti](https://www.linkedin.com/in/sspaeti/) (10k+)                                                                        |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Dipankar Mazumdar    |                                                                                                                           | [Dipankar Mazumdar](https://www.linkedin.com/in/dipankar-mazumdar/) (5k+)                                                         |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Daniel Ciocirlan     |                                                                                                                           | [Daniel Ciocirlan](https://www.linkedin.com/in/danielciocirlan) (5k+)                                                             |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Hugo Lu              |                                                                                                                           | [Hugo Lu](https://www.linkedin.com/in/hugo-lu-confirmed/) (5k+)                                                                   |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Tobias Macey         |                                                                                                                           | [Tobias Macey](https://www.linkedin.com/in/tmacey) (5k+)                                                                          |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Marcos Ortiz         |                                                                                                                           | [Marcos Ortiz](https://www.linkedin.com/in/mlortiz) (5k+)                                                                         |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Julien Hurault       |                                                                                                                           | [Julien Hurault](https://www.linkedin.com/in/julienhuraultanalytics/) (5k+)                                                       |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Alex Freberg         | [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)   (100k+)                                                     | [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)  (100k+)                                                                |                                                                                                                                                                                 |                                                                                                               | [@alex_the_analyst](https://www.tiktok.com/@alex_the_analyst) (10k+)                                                                                                                                |
-| Marc Lamberti        |                                                                                                                           | [Marc Lamberti](https://www.linkedin.com/in/marclamberti) (50k+)                                                                  |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Chip Huyen           |                                                                                                                           | [Chip Huyen](https://www.linkedin.com/in/chiphuyen/) (250k+)                                                                  |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Alex Merced          | [Alex Merced Data](https://www.youtube.com/@alexmerceddata_)                                                               | [Alex Merced](https://www.linkedin.com/in/alexmerced) (30k+)                                                                       | [@amdatalakehouse](https://www.twitter.com/amdatalakehouse)                                                                                                                             | [@alexmercedcoder](https://www.instagram.com/alexmercedcoder)                                                        | |  
-| John Kutay           | [John Kutay](https://www.youtube.com/watch?v=7K09lxNbF3Q&list=PL1EXPn7cSg91KLnk2P26Fh8OnGrh6eFmx&pp=iAQB)                 | [John Kutay](https://www.linkedin.com/in/johnkutay/) (5k+)                                                                        | [@JohnKutay](https://x.com/JohnKutay)                                                                                                                                           |                                                                                                               |                                                                                                                                                                                                     |
-| Lakshmi Sontenam     |                                                                                                                           | [Lakshmi Sontenam](https://www.linkedin.com/in/shivaga9esh) (9.5k+) |  |  | |
-| Hassaan Akbar        |                                                                                                                           | [Hassaan Akbar](https://www.linkedin.com/in/ehassaan) (5k+)                                                                       |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Samuel Focht         | [Python Basics ](https://www.youtube.com/@PythonBasics)   (10k+)                                                           |                                                                                                                                  |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Constantin Lungu     |                                                                                                                            | [Constantin Lungu](https://www.linkedin.com/in/constantin-lungu-668b8756) (10k+)                                                 |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     | 
-| Ijaz Ali             |                                                                                                                           | [Ijaz Ali](https://www.linkedin.com/in/ijaz-ali-6aaa87122/) (24K+)   
-| Subhankar            |                                                                                                                           | [Subhankar](https://www.linkedin.com/in/subhankarumass/) (5k+)                                                                    |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Ankur Ranjan            |    [Big Data Show](https://www.youtube.com/@TheBigDataShow) (100k+)                                                                                                                       | [Ankur Ranjan](https://www.linkedin.com/in/thebigdatashow/) (48k+)                                                                    |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Lenny            |                                                                                                                           | [Lenny A](https://www.linkedin.com/in/lennyardiles/) (6k+)                                                                    |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Mehdi Ouazza | [Mehdio DataTV](https://www.youtube.com/@mehdio) (3k+)                                                               | [Mehdi Ouazza](https://www.linkedin.com/in/mehd-io/) (20k+)                                                                       | [mehd_io](https://x.com/mehd_io)                                                                                                                             |                                                  | [@mehdio_datatv](https://www.tiktok.com/@mehdio_datatv)                                                                                                                                                 |
-| ITVersity           | [ITVersity](https://www.youtube.com/@itversity) (67k+)                                                        | [Durga Gadiraju](https://www.linkedin.com/in/durga0gadiraju/) (48k+)                                                               |                                                                                                                                                                                 |                                                                                                               |                                                                  
-| Arnaud Milleker      |                                                                                                                           | [Arnaud Milleker](https://www.linkedin.com/in/arnaudmilleker/) (7k+)                                                      |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Soumil Shah      | [Soumil Shah] (https://www.youtube.com/@SoumilShah) (50k) | [Soumil Shah](https://www.linkedin.com/in/shah-soumil/) (8k+) |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Ananth Packkildurai      |  | [Ananth Packkildurai](https://www.linkedin.com/in/ananthdurai/) (18k+) |                                                                                                                                                                                 |                                                                                                               |                                                                                                                                                                                                     |
-| Dan Kornas            |                                |                                  |                  [dankornas](https://www.twitter.com/dankornas) (66k+)                                                                                                                                                               |                                                                                                               |  
-| Nitin             | https://www.linkedin.com/in/tomernitin29/                          |
-| Manojkumar Vadivel      |  | [Manojkumar Vadivel](https://www.linkedin.com/in/manojvsj/) (12k+) | 
+
+#### YouTube 
+| Name                        | YouTube Channel                                                                                         | Follower Count |
+|----------------------------|---------------------------------------------------------------------------------------------------------|---------------:|
+| ByteByteGo                 | [ByteByteGo](https://www.youtube.com/c/ByteByteGo)                                             | 1,000,000+     |
+| Data with Baraa            | [Data with Baraa](https://www.youtube.com/@DataWithBaraa)                                       | 195,000+     |
+| Zach Wilson                | [Data with Zach](https://www.youtube.com/@eczachly_)                                          | 150,000+       |
+| Shashank Mishra            | [E-learning Bridge](https://www.youtube.com/@shashank_mishra)                                   | 100,000+       |
+| Seattle Data Guy           | [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)                                  | 100,000+       |
+| TrendyTech                 | [TrendyTech](https://www.youtube.com/c/TrendytechInsights)                                   | 100,000+       |
+| Darshil Parmar             | [Darshil Parmar](https://www.youtube.com/@DarshilParmar)                                       | 100,000+       |
+| Andreas Kretz              | [Andreas Kretz](https://www.youtube.com/c/andreaskayy)                                          | 100,000+       |
+| The Ravit Show             | [The Ravit Show](https://youtube.com/@theravitshow)                                           | 100,000+       |
+| Guy in a Cube              | [Guy in a Cube](https://www.youtube.com/@GuyInACube)                                            | 100,000+       |
+| Adam Marczak               | [Adam Marczak](https://www.youtube.com/@AdamMarczakYT)                                         | 100,000+       |
+| nullQueries                | [nullQueries](https://www.youtube.com/@nullQueries)                                             | 100,000+       |
+| TECHTFQ by Thoufiq         | [TECHTFQ by Thoufiq](https://www.youtube.com/@techTFQ)                                         | 100,000+       |
+| SQLBI                       | [SQLBI](https://www.youtube.com/@SQLBI)                                                     | 100,000+       |
+| Alex Freberg               | [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)                                     | 100,000+       |
+| Ankur Ranjan               | [Big Data Show](https://www.youtube.com/@TheBigDataShow)                                        | 100,000+       |
+| Prashanth Kumar Pandey     | [ScholarNest](https://www.youtube.com/@ScholarNest)                                              | 77,000+        |
+| ITVersity                  | [ITVersity](https://www.youtube.com/@itversity)                                                  | 67,000+        |
+| Soumil Shah                | [Soumil Shah](https://www.youtube.com/@SoumilShah)                                               | 50,000         |
+| Ansh Lamba                 | [Ansh Lamba](https://www.youtube.com/@AnshLambaJSR)                                              | 18,000+        |
+| Azure Lib                  | [Azure Lib](https://www.youtube.com/@azurelib-academy)                                        | 10,000+        |
+| Advancing Analytics        | [Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics)                               | 10,000+        |
+| Kahan Data Solutions       | [Kahan Data Solutions](https://www.youtube.com/@KahanDataSolutions)                               | 10,000+        |
+| Ankit Bansal               | [Ankit Bansal](https://youtube.com/@ankitbansal6)                                               | 10,000+        |
+| Mr. K Talks Tech           | [Mr. K Talks Tech](https://www.youtube.com/channel/UCzdOan4AmF65PmLLks8Lmww)                      | 10,000+        |
+| Samuel Focht               | [Python Basics](https://www.youtube.com/@PythonBasics)                                           | 10,000+        |
+| Mehdi Ouazza              | [Mehdio DataTV](https://www.youtube.com/@mehdio)                                                    | 3,000+         |
+| Alex Merced                | [Alex Merced Data](https://www.youtube.com/@alexmerceddata_)                                            | N/A           |
+| John Kutay                 | [John Kutay](https://www.youtube.com/@striiminc) | N/A           |
+| Emil Kaminski              | [Databricks For Professionals](https://www.youtube.com/@DatabricksPro)                           | 5,000+          |
+
+
+#### LinkedIn
+
+| Name                      | LinkedIn Profile                                                                                         | Follower Count |
+|--------------------------|----------------------------------------------------------------------------------------------------------|---------------:|
+| Zach Wilson              | [Zach Wilson](https://www.linkedin.com/in/eczachly)                                                     | 400,000+       |
+| Chip Huyen               | [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)                                    | 250,000+       |
+| Shashank Mishra          | [Shashank Mishra](https://www.linkedin.com/in/shashank219/)                                     | 100,000+       |
+| Seattle Data Guy         | [Ben Rogojan](https://www.linkedin.com/in/benjaminrogojan)                                        | 100,000+       |
+| TrendyTech               | [Sumit Mittal](https://www.linkedin.com/in/bigdatabysumit/)                                   | 100,000+       |
+| Darshil Parmar           | [Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/)                                   | 100,000+       |
+| Andreas Kretz            | [Andreas Kretz](https://www.linkedin.com/in/andreas-kretz)                                     | 100,000+       |
+| ByteByteGo (Alex Xu)     | [Alex Xu](https://www.linkedin.com/in/alexxubyte)                                             | 100,000+       |
+| Azure Lib (Deepak Goyal) | [Deepak Goyal](https://www.linkedin.com/in/deepak-goyal-93805a17/)                              | 100,000+       |
+| Alex Freberg             | [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)                                     | 100,000+       |
+| SQLBI (Marco Russo)      | [Marco Russo](https://www.linkedin.com/in/sqlbi)                                                  | 50,000+        |
+| Ankit Bansal             | [Ankit Bansal](https://www.linkedin.com/in/ankitbansal6/)                                        | 50,000+        |
+| Marc Lamberti            | [Marc Lamberti](https://www.linkedin.com/in/marclamberti)                                       | 50,000+        |
+| Ankur Ranjan             | [Ankur Ranjan](https://www.linkedin.com/in/thebigdatashow/)                                       | 48,000+        |
+| ITVersity (Durga Gadiraju)| [Durga Gadiraju](https://www.linkedin.com/in/durga0gadiraju/)                                   | 48,000+        |
+| Prashanth Kumar Pandey   | [Prashanth Kumar Pandey](https://www.linkedin.com/in/prashant-kumar-pandey/)                       | 37,000+        |
+| Alex Merced              | [Alex Merced](https://www.linkedin.com/in/alexmerced)                                           | 30,000+        |
+| Ijaz Ali                 | [Ijaz Ali](https://www.linkedin.com/in/ijaz-ali-6aaa87122/)                                       | 24,000+        |
+| Mehdi Ouazza             | [Mehdi Ouazza](https://www.linkedin.com/in/mehd-io/)                                        | 20,000+        |
+| Ananth Packkildurai      | [Ananth Packkildurai](https://www.linkedin.com/in/ananthdurai/)                                    | 18,000+        |
+| Ansh Lamba               | [Ansh Lamba](https://www.linkedin.com/in/ansh-lamba-793681184/)                                    | 13,000+        |
+| Manojkumar Vadivel       | [Manojkumar Vadivel](https://www.linkedin.com/in/manojvsj/)                                        | 12,000+        |
+| Advancing Analytics      | [Simon Whiteley](https://www.linkedin.com/in/simon-whiteley-uk/)                                  | 10,000+        |
+| Li Yin                   | [Li Yin](https://www.linkedin.com/in/li-yin-ai/)                                                  | 10,000+        |
+| Jaco van Gelder          | [Jaco van Gelder](https://www.linkedin.com/in/jwvangelder/)                                       | 10,000+        |
+| Joseph Machado           | [Joseph Machado](https://www.linkedin.com/in/josephmachado1991/)                                  | 10,000+        |
+| Eric Roby                | [Eric Roby](https://www.linkedin.com/in/codingwithroby/)                                           | 10,000+        |
+| Simon Späti              | [Simon Späti](https://www.linkedin.com/in/sspaeti/)                                            | 10,000+        |
+| Constantin Lungu         | [Constantin Lungu](https://www.linkedin.com/in/constantin-lungu-668b8756)                         | 10,000+        |
+| Lakshmi Sontenam         | [Lakshmi Sontenam](https://www.linkedin.com/in/shivaga9esh)                                      | 9,500+         |
+| Dani Pálma               | [Daniel Pálma](https://www.linkedin.com/in/danthelion/)                                          | 9,000+         |
+| Soumil Shah              | [Soumil Shah](https://www.linkedin.com/in/shah-soumil/)                                          | 8,000+         |
+| Arnaud Milleker          | [Arnaud Milleker](https://www.linkedin.com/in/arnaudmilleker/)                                    | 7,000+         |
+| Dimitri Visnadi          | [Dimitri Visnadi](https://www.linkedin.com/in/visnadi/)                                    | 7,000+         |
+| Lenny                    | [Lenny A](https://www.linkedin.com/in/lennyardiles/)                                         | 6,000+         |
+| Dipankar Mazumdar        | [Dipankar Mazumdar](https://www.linkedin.com/in/dipankar-mazumdar/)                                 | 5,000+         |
+| Daniel Ciocirlan         | [Daniel Ciocirlan](https://www.linkedin.com/in/danielciocirlan)                                    | 5,000+         |
+| Hugo Lu                  | [Hugo Lu](https://www.linkedin.com/in/hugo-lu-confirmed/)                                           | 5,000+         |
+| Tobias Macey             | [Tobias Macey](https://www.linkedin.com/in/tmacey)                                                 | 5,000+         |
+| Marcos Ortiz             | [Marcos Ortiz](https://www.linkedin.com/in/mlortiz)                                             | 5,000+         |
+| Julien Hurault           | [Julien Hurault](https://www.linkedin.com/in/julienhuraultanalytics/)                               | 5,000+         |
+| John Kutay               | [John Kutay](https://www.linkedin.com/in/johnkutay/)                                               | 5,000+         |
+| Hassaan Akbar            | [Hassaan Akbar](https://www.linkedin.com/in/ehassaan)                                              | 5,000+         |
+| Subhankar                | [Subhankar](https://www.linkedin.com/in/subhankarumass/)                                            | 5,000+         |
+| Nitin                    | [Nitin](https://www.linkedin.com/in/tomernitin29/)                                                        | N/A           |
+| Hassaan                    | [Hassaan](https://www.linkedin.com/in/shassaan/)                                                        | 5000+           |
+| Javier de la Torre             | [Javier](www.linkedin.com/in/javier-de-la-torre-medina)                                                        | 5000+           |
+
+
+#### X/Twitter
+
+| Name              | X/Twitter Profile                                                 | Follower Count |
+|-------------------|------------------------------------------------------------------|---------------:|
+| ByteByteGo        | [alexxubyte](https://twitter.com/alexxubyte/)            | 100,000+       |
+| Dan Kornas        | [@dankornas](https://www.twitter.com/dankornas)           | 66,000+        |
+| Zach Wilson       | [EcZachly](https://www.twitter.com/EcZachly)          | 30,000+        |
+| Seattle Data Guy  | [SeattleDataGuy](https://www.twitter.com/SeattleDataGuy)   | 10,000+        |
+| SQLBI             | [marcorus](https://x.com/marcorus)                       | 10,000+        |
+| Joseph Machado    | [startdataeng](https://twitter.com/startdataeng)         | 5,000+         |
+| Alex Merced       | [@amdatalakehouse](https://www.twitter.com/amdatalakehouse)      | N/A           |
+| John Kutay        | [@JohnKutay](https://x.com/JohnKutay)                            | N/A           |
+| Mehdi Ouazza      | [mehd_io](https://x.com/mehd_io)                                 | N/A           |
+
+
+#### Instagram
+
+| Name           | Instagram Profile                                                                   | Follower Count |
+|----------------|--------------------------------------------------------------------------------------|---------------:|
+| Sundas Khalid  | [sundaskhalidd](https://www.instagram.com/sundaskhalidd)                              | 300,000+       |
+| Zach Wilson    | [eczachly](https://www.instagram.com/eczachly)                             | 150,000+       |
+| Andreas Kretz  | [learndataengineering](https://www.instagram.com/learndataengineering)          | 5,000+         |
+| Alex Merced    | [@alexmercedcoder](https://www.instagram.com/alexmercedcoder)                       | N/A           |
+
+#### TikTok
+
+| Name            | TikTok Profile                                                                   | Follower Count |
+|-----------------|----------------------------------------------------------------------------------|---------------:|
+| Zach Wilson     | [@eczachly](https://www.tiktok.com/@eczachly)                            | 70,000+        |
+| Alex Freberg    | [@alex_the_analyst](https://www.tiktok.com/@alex_the_analyst)             | 10,000+        |
+| Mehdi Ouazza    | [@mehdio_datatv](https://www.tiktok.com/@mehdio_datatv)                          | N/A           |
+
 
 ### Great Podcasts
 
@@ -222,6 +311,9 @@ Here's the mostly comprehensive list of data engineering creators:
 - [MLOps.community](https://podcast.mlops.community/)
 - [Monday Morning Data Chat](https://open.spotify.com/show/3Km3lBNzJpc1nOTJUtbtMh)
 - [The Data Chief](https://www.thoughtspot.com/data-chief/podcast)
+- [The Joe Reis Show](https://open.spotify.com/show/3mcKitYGS4VMG2eHd2PfDN)
+- [Data Bytes](https://open.spotify.com/show/6VbjON5Ck9QYInBnmoqrDE)
+- [Super Data Science: ML & AI Podcast with Jon Krohn](https://open.spotify.com/show/1n8P7ZSgfVLVJ3GegxPat1)
 
 ### Great [list of 20+ newsletters](newsletters.md)
 
@@ -230,6 +322,7 @@ Top must follow newsletters for data engineering:
 - [Joe Reis](https://joereis.substack.com)
 - [Start Data Engineering](https://www.startdataengineering.com)
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com)
+- [Data Engineer Things](https://dataengineerthings.substack.com/)
 
 ### Glossaries:
 - [Data Engineering Vault](https://www.ssp.sh/brain/data-engineering/)
@@ -254,6 +347,7 @@ Top must follow newsletters for data engineering:
 - [LearnDataEngineering.com](https://www.learndataengineering.com)
 - [Technical Freelancer Academy](https://www.technicalfreelanceracademy.com/) Use code **zwtech** for a discount!
 - [IBM Data Engineering for Everyone](https://www.edx.org/learn/data-engineering/ibm-data-engineering-basics-for-everyone)
+- [PrepNPlaced Open Learning](https://www.prepnplaced.com/open-learning) - 153 hours of free SQL, Python, PySpark, and Power BI lessons with MCQs and a free skill test
 - [Qwiklabs](https://www.qwiklabs.com/)
 - [DataCamp](https://www.datacamp.com/)
 - [Udemy Courses from Shruti Mantri](https://www.udemy.com/user/shruti-mantri-5/)
@@ -263,6 +357,7 @@ Top must follow newsletters for data engineering:
 - [Scaler](https://www.scaler.com/)
 - [DataTeams - Data Engingeer hiring platform](https://www.datateams.ai/)
 - [Udemy Courses from Daniel Blanco](https://danielblanco.dev/links)
+- [DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering)
 
 ### Certifications Courses
 
@@ -270,6 +365,7 @@ Top must follow newsletters for data engineering:
 - [Databricks - Certified Associate Developer for Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate)
 - [Databricks - Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
 - [Databricks - Data Engineer Professional](https://www.databricks.com/learn/certification/data-engineer-professional)
-- [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/?tab=tab-learning-paths)
-- [Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate/)
+- [Microsoft DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/?tab=tab-learning-paths)
+- [Microsoft DP-600: Fabric Analytics Engineer Associate](https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate/)
+- [Microsoft DP-700: Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)
 - [AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)
